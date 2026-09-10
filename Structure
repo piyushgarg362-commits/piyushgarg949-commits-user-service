@@ -1,0 +1,23 @@
+user-service/
+│
+├── src/
+│   ├── controllers/
+│   │   └── userController.js
+│   │
+│   ├── models/
+│   │   └── userModel.js
+│   │
+│   ├── routes/
+│   │   └── userRoutes.js
+│   │
+│   ├── app.js
+│   └── server.js
+│
+├── tests/
+│   └── user.test.js
+│
+├── .env.example
+├── .gitignore
+├── Dockerfile
+├── package.json
+└── README.md
